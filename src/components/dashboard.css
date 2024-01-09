@@ -1,0 +1,138 @@
+.Dasboard__section{
+    width: 1300px;
+    border: 1px solid #d8d8d8;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1);
+}
+
+.Headding{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0px 20px;
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.top__card__and__links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.Card{
+    height: 25px !important;
+    width: 200px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    padding: 5px;
+}
+
+.Card__info{
+    margin-top: -10px;
+}
+
+.Avatar{
+    margin-top: 0px !important;
+}
+
+.Search__Field{
+    width: 300px !important;
+}
+
+.Dasboard__title__info{
+    padding: 20px 20px;
+}
+
+.Link__field{
+    padding: 5px;
+    margin-top: 20px !important;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    width: 400px;
+}
+
+.tag__active__link{
+    background-color: #fefefe;
+    padding: 1px 6px;
+    border-radius: 5px !important;
+    font-weight: 500;
+    color: #000 !important;
+}
+
+/**CARDS SECTION**/
+.cards__container{
+    padding: 0px 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.Cards{
+    border: 1px solid #d8d8d8 !important;
+    width: 290px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    padding: 20px;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1);
+}
+
+.Cards h4, h1, p{
+    margin: 0;
+}
+
+/**Recent Sales**/
+.lower__container{
+    display: flex;
+    padding-bottom: 20px;
+    gap: 5px;
+}
+
+.recent__sales{
+    border: 1px solid #d8d8d8 !important;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 20px;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1);
+}
+
+.recent__sales h2, p{
+    margin: 0px;
+}
+
+.recent__sales p{
+    padding-bottom: 12px;
+    font-size: 15px;
+}
+
+.sales__accounts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 500px;
+}
+
+.sales__cards{
+    border: none !important;
+    border-color: transparent !important;
+}
+
+.sales__flex{
+    display: flex;
+    justify-content: space-between !important;
+    gap: 100px !important;
+}
+
+.sales__avatar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}

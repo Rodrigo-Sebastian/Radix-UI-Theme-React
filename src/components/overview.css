@@ -1,0 +1,21 @@
+.fill-primary{
+    fill: #1a1a1a;
+}
+
+.chart__container{
+    width: 700px !important;
+    margin: 0px 20px !important;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #d8d8d8 !important;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1);
+}
+
+.overview__container{
+    max-width: 720px !important;
+}
+
+.chart__title{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}

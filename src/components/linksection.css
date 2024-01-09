@@ -1,0 +1,13 @@
+.section__Links{
+    padding: 0px 300px;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+
+.active{
+    border-radius: 50px !important;
+    padding: 2px 12px;
+    background-color: #f3f3f3;
+    color: black;
+    font-weight: 500;
+}

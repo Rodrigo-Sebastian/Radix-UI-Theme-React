@@ -1,0 +1,22 @@
+  .Wrapper{
+    padding: 10px 200px;
+    border-bottom: 1px solid #f3f3f3;
+    position: sticky !important;
+  }
+  
+  .Left__container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .Navigation{
+    display: flex;
+    gap: 20px;
+  }
+
+  .Right__container{
+    display: flex;
+    gap: 5px;
+  }
